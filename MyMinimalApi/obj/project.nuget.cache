@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gjo/h6jk9VHgD9LwMr1mouyxp0X5K/cjl9H3ZUjmv2GkT1BBZPyZ7YywN3O//1Hs5Gn9i0bL1fD9FiiXAA+7Ww==",
+  "success": true,
+  "projectFilePath": "C:\\X-UNit\\MyMinimalApi\\MyMinimalApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karan\\.nuget\\packages\\minivalidation\\0.7.4\\minivalidation.0.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}

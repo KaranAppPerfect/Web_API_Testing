@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MyMinimalApi/1.0.0": {
+        "dependencies": {
+          "MiniValidation": "0.7.4"
+        },
+        "runtime": {
+          "MyMinimalApi.dll": {}
+        }
+      },
+      "MiniValidation/0.7.4": {
+        "runtime": {
+          "lib/net6.0/MiniValidation.dll": {
+            "assemblyVersion": "0.7.4.0",
+            "fileVersion": "0.7.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyMinimalApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiniValidation/0.7.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0n5/c1ZP8EheGwIqt8vp7gdoQBaT6zMpACltH6L8CAp4EpmHnjXLB8BD7BvPGv++EDj+sh7SxigP1TVgpap+Tg==",
+      "path": "minivalidation/0.7.4",
+      "hashPath": "minivalidation.0.7.4.nupkg.sha512"
+    }
+  }
+}
